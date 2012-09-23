@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<synonym>
+    <token canonical="GC" DOCNO="276145">
+        <variant base="gold"/>
+    </token>
+
+    <token canonical="C" DOCNO="276145">
+        <variant base="corn"/>
+    </token>
+
+    <token canonical="O" DOCNO="276145">
+        <variant base="oats"/>
+        <variant base="oat"/>
+    </token>
+    <token canonical="RR" DOCNO="276145">
+        <variant base="rough rice"/>
+        <variant base="rice"/>
+    </token>
+    <token canonical="S" DOCNO="276145">
+        <variant base="soy beans"/>
+    </token>
+    <token canonical="SM" DOCNO="276145">
+        <variant base="soybeanmeal"/>
+    </token>
+    <token canonical="W" DOCNO="276145">
+        <variant base="wheat"/>
+    </token>
+    <token canonical="CO" DOCNO="276145">
+        <variant base="cocoa"/>
+    </token>
+    <token canonical="CC" DOCNO="276145">
+        <variant base="coffee"/>
+    </token>
+    <token canonical="NY" DOCNO="276145">
+        <variant base="cotton"/>
+    </token>
+    <token canonical="SU" DOCNO="276145">
+        <variant base="sugar"/>
+    </token>
+    <token canonical="OJ" DOCNO="276145">
+        <variant base="orange juice"/>
+        <variant base="orange"/>
+    </token>
+    <token canonical="LH" DOCNO="276145">
+        <variant base="hogs"/>
+        <variant base="hog"/>
+    </token>
+    <token canonical="PB" DOCNO="276145">
+        <variant base="pork bellies"/>
+        <variant base="pork"/>
+        <variant base="pork belly"/>
+        <variant base="belly"/>
+    </token>
+
+    <token canonical="LC" DOCNO="276145">
+        <variant base="live cattle"/>
+    </token>
+    <token canonical="FC" DOCNO="276145">
+        <variant base="feeder cattle"/>
+    </token>
+    <token canonical="CL" DOCNO="276145">
+        <variant base="crude oil"/>
+        <variant base="brent crude"/>
+        <variant base="oil"/>
+    </token>
+    <token canonical="HO" DOCNO="276145">
+        <variant base="heating oil"/>
+        <variant base="heat oil"/>
+    </token>
+    <token canonical="NO" DOCNO="276145">
+        <variant base="natural gas"/>
+    </token>
+    <token canonical="PT" DOCNO="276145">
+        <variant base="propane"/>
+        <variant base="propane gas"/>
+    </token>
+
+    <token canonical="PL" DOCNO="276145">
+        <variant base="platinum"/>
+    </token>
+    <token canonical="PA" DOCNO="276145">
+        <variant base="palladium"/>
+    </token>
+    <token canonical="SV" DOCNO="276145">
+        <variant base="silver"/>
+    </token>
+    <token canonical="GI" DOCNO="276145">
+        <variant base="copper"/>
+    </token>
+</synonym>
